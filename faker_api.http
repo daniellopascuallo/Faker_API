@@ -1,0 +1,9 @@
+GET http://localhost:8000/api/users/new HTTP/1.1
+
+###
+
+GET http://localhost:8000/api/companies/new HTTP/1.1
+
+###
+
+GET http://localhost:8000/api/user/company HTTP/1.1
